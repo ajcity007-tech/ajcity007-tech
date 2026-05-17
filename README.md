@@ -3,7 +3,7 @@
 ### ⚖️ Executive Bio & Background
 I am a cross-disciplinary researcher and developer engineering software systems at the intersection of exact physical sciences, structured pedagogy, and Indian jurisprudence. 
 
-* **Academic Architecture:** Currently pursuing an **LL.B.** at **Shri Ram College of Law, Muzaffarnagar (Batch: 2024-2027, Registration: K-24050)**. I hold advanced academic credentials including an **M.Sc. in Physics & Mathematics** and a **B.Ed. in Education**.
+* **Academic Architecture:** Currently pursuing an **LL.B.** at **Shri Ram College of Law, Muzaffarnagar (Batch: 2024-2027, Registration: K-24050)**. I hold advanced academic credentials including an **M.Sc. in Physics a **B.Ed. in Education**.
 * **Core Philosophy:** Applying mathematical optimization, quantum operator logic, and systemic educational frameworks to clean, scalable software systems.
 
 ---
